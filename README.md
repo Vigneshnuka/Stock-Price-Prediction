@@ -49,5 +49,3 @@ stock-price-prediction/
 ## Results
 The ensemble model significantly improves prediction accuracy by combining the strengths of individual models and incorporating sentiment analysis.
 
-## License
-This project is licensed under the MIT License.
